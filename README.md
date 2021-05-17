@@ -6,7 +6,7 @@ Live Demo 👉 https://spotify-clone-fa6d5.web.app/
 
 - React
 - Spotify API
-- Materail UI (icons)
+- Material UI (icons)
 - User Authentication
 - Responsive Design
 - Reack Hooks Functional (Hooks, State)
